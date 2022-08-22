@@ -1,0 +1,91 @@
+
+
+
+
+body {
+    font-family: 'Montserrat', sans-serif; 
+    color:aliceblue;
+    background-color:skyblue;
+}
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 45px;
+    text-shadow: 2px 2px 2px rgb(60, 63, 109);
+    margin-top: 3em;
+    font-weight: bolder
+}
+
+p{
+   font-size: 16px;
+    color: royalblue;
+    text-align: justify;
+    font-style:italic
+}
+
+
+.header{
+/*esto es tan difícil que a veces tengo que hacerlo chistoso */
+
+    height: 6em;
+    padding: 3em; 
+    font-size: 2em;
+    background-image: url(/assets/img/banner-1300x300.jpg);
+    background-size:cover;
+    background-position:center;
+ }
+
+ .bajada {
+     margin-top: 0; margin-bottom: 0;
+     font-size: medium;
+     font-weight: bolder;
+}
+
+
+.imagen {
+    text-align: right;
+    width: fit-content;
+}    
+
+.lugares {
+    width: 80%;
+    margin-left: 0;
+    align-content: center;
+    border: 3px;
+    border-image:round  white;
+    border-color: black;
+    border-collapse: collapse;
+   
+}
+
+.lugares td {
+    width: 50%;
+    padding: 0.5em;
+    text-align: justify;
+    align-content: left;
+
+
+}
+
+.lugares img{
+    width: 75%;
+    border: solid 1px #ddd;
+}
+
+
+
+.footer{
+    height: 5em;
+    line-height: 5em;
+    background-color: royalblue;
+    color: lightsteelblue;
+    text-align: center;
+    font-weight: 680;
+}
+
+
+
+
+
+
