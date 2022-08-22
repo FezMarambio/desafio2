@@ -32,7 +32,6 @@ p{
     padding: 3em; 
     font-size: 2em;
     background-image: url(../img/banner-1300x300.jpg);
-    /* background-image: url(./assets/img/banner-1300x300.jpg); */
     background-size:cover;
     background-position:center;
  }
